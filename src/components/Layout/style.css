@@ -19,3 +19,8 @@
     font-weight: 600;
     font-size: 20px;
 }
+.companyAddress{
+    border-left: 1px solid #6c6c6c;
+    border-right: 1px solid #6c6c6c;
+
+}

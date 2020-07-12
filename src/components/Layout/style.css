@@ -1,0 +1,21 @@
+.companyName h6{
+    font-size: 30px;
+    margin: 0;
+    text-transform: capitalize;
+    font-weight: 400;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+.address{
+    display: flex;
+}
+
+.social img{
+    height: 32px;
+    margin: 10px 27px;
+}
+.companyName p{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    font-size: 20px;
+}

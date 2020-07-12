@@ -1,0 +1,15 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    margin: 10px 10px;
+}
+.headerMenu span{
+    text-transform: uppercase;
+    font-size: 30px;
+    margin: 10px;
+}
+
+
+
+
+

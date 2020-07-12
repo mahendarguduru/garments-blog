@@ -1,0 +1,94 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Featured",
+            "blogTitle" : "Traditional Outfit",
+            "slug": "traditional-outfit",
+            "postedOn": "July 21, 2016",
+            "author": "Jagan Mohan",
+            "blogImage": "indian-traditional-wear.jpg",
+            "blogText": "Traditional dress may be defined as the ensemble of garments, jewelry, and accessories rooted in the past that is worn by an identifiable group of people. Though slight changes over time in color, form, and material are acknowledged, the assemblage seems to be handed down unchanged from the past. Traditional dress or costume is a phrase used widely both by the general public and writers on dress. It conjures up images of rural people dressed in colorful, layered, exotic clothing from an idealized past in some faraway place. This notion of traditional dress has been scrutinized and found inadequate by many researchers and scholars, but its uncritical use continues into the twenty-first century. The phrase traditional dress or costume is often used interchangeably with the terms ethnic, regional, and folk dress."
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Simple",
+            "blogTitle": "Indian Designer Wear",
+            "slug": "indian-designer-wear",
+            "postedOn": "May 03, 2016",
+            "author": "Pallavi",
+            "blogImage": "indian-designer-wear.webp",
+            "blogText": "Clothing in India is changing depending on the different ethnicity, geography, climate, and cultural traditions of the people of each region of India. Historically, male and female clothing has evolved from simple garments like kaupina, langota, dhoti, lungi, sari, gamcha, and loincloths to cover the body into elaborate costumes not only used in daily wear, but also on festive occasions, as well as rituals and dance performances. In urban areas, western clothing is common and uniformly worn by people of all social levels. India also has a great diversity in terms of weaves, fibers, colours, and material of clothing. Sometimes, color codes are followed in clothing based on the religion and ritual concerned. The clothing in India also encompasses the wide variety of Indian embroidery, prints, handwork, embellishment, styles of wearing clothes. A wide mix of Indian traditional clothing and western styles can be seen in India."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Simple",
+            "blogTitle": "Western summer Outfits",
+            "slug": "western-summer-outfits",
+            "postedOn": "Apr 02, 2017",
+            "author": "Pallavi",
+            "blogImage": "western-summer-outfits.jpg",
+            "blogText": "Western wear is a category of men's and women's clothing which derives its unique style from the clothes worn in the 19th century Wild West. It ranges from accurate historical reproductions of pioneer, mountain man, Civil War, cowboy and vaquero clothing to the stylized garments popularized by singing cowboys such as Gene Autry and Roy Rogers in the 1940s and 1950s. Western wear can be very informal, with a t-shirt and blue jeans forming a basic ensemble, or it may consist of tailored formal garments with western accents. At minimum, western wear generally incorporates a cowboy hat, a leather belt, and cowboy boots."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Featured",
+            "blogTitle": "Designer Bridal Wear",
+            "slug": "designer-bridal-wear",
+            "postedOn": "Jan 02, 2018",
+            "author": "Pallavi",
+            "blogImage": "designer-bridal-wear.jpg",
+            "blogText": "A wedding dress or bridal gown is the dress worn by the bride during a wedding ceremony. The color, style and ceremonial importance of the gown can depend on the religion and culture of the wedding participants. In Western cultures, the wedding dress is most commonly white, which fashion was made popular by Queen Victoria when she married in 1840. In eastern cultures, brides often choose red to symbolize auspiciousness.Weddings performed during and immediately following the Middle Ages were often more than just a union between two people. They could be a union between two families, two businesses or even two countries. Many weddings were more a matter of politics than love, particularly among the nobility and the higher social classes. Brides were therefore expected to dress in a manner that cast their families in the most favorable light and befitted their social status, for they were not representing only themselves during the ceremony. Brides from wealthy families often wore rich colors and exclusive fabrics. It was common to see them wearing bold colors and layers of furs, velvet and silk. Brides dressed in the height of current fashion, with the richest materials their families' money could buy. The poorest of brides wore their best church dress on their wedding day. The amount and the price of material a wedding dress contained was a reflection of the bride's social standing and indicated the extent of the family's wealth to wedding guests."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Fashion",
+            "blogTitle": "Ethnic Wear",
+            "slug": "ethnic-wear",
+            "postedOn": "Feb 21, 2018",
+            "author": "Jagan Mohan",
+            "blogImage": "ethnic-wear.jpg",
+            "blogText": "A piece of clothing that connects you with a specific ethnic group is known as ethnic wear. Ethnic group can be a set of people sharing same geographical location or cultural background. People of different ethnic groups distinguish each other by the attire that represents their ethnicity.For example, different states in India have a unique ethnic identity. Women in north India wear salwar kameez, while women in south India wear sarees. That’s their ethnic identity. The new age fashion designers have completely reinvented the ethnic styles. These days you can find a range of designer sarees, printed kurtas, palazzos, Lehengas and much more.Ethnic wear is the fashion equivalent of one’s national heritage. You can tell how deeply rich and diverse a country is based on their ethnic wear. For example, in Japan, the ethnic wear is kimono and differs depending on the seasons. Clothing with more rustic colors and patterns (like russet leaves) are favored in autumn, while in spring more vibrant colors and floral designs (like cherry blossoms) are common. In winter, those dressing in Kimono tend to wear darker colors and multiple layers (sometimes as many as ten)."
+        },
+        {
+            "id": 6,
+            "blogCategory": "Featured",
+            "blogTitle": "Inner Wear",
+            "slug": "inner-wear",
+            "postedOn": "Feb 21, 2019",
+            "author": "Pallavi",
+            "blogImage": "inner-wear.jpeg",
+            "blogText": "Undergarments are items of clothing worn beneath outer clothes, usually in direct contact with the skin, although they may comprise more than a single layer. They serve to keep outer garments from being soiled or damaged by bodily excretions, to lessen the friction of outerwear against the skin, to shape the body, and to provide concealment or support for parts of it. In cold weather, long underwear is sometimes worn to provide additional warmth. Special types of undergarments have religious significance. Some items of clothing are designed as undergarments, while others, such as T-shirts and certain types of shorts, are appropriate both as undergarments and as outer clothing. If made of suitable material or textile, some undergarments can serve as nightwear or swimsuits, and some are intended for sexual attraction or visual appeal."
+        },
+        {
+            "id": 7,
+            "blogCategory": "Fashion",
+            "blogTitle": "Imitation Jewellery",
+            "slug": "imitation-jewellery",
+            "postedOn": "Feb 29, 2019",
+            "author": "Pallavi",
+            "blogImage": "imitation-jewellery.jpg",
+            "blogText": "Originally, costume or fashion jewelry was made of inexpensive simulated gemstones, such as rhinestones or lucite, set in pewter, silver, nickel, or brass. During the depression years, rhinestones were even down-graded by some manufacturers to meet the cost of production. During the World War II era, sterling silver was often incorporated into costume jewelry designs primarily because:The components used for base metal were needed for war time production (i.e., military applications) and a ban was placed on their use in the private sector.Base metal was originally popular because it could approximate platinum's color, sterling silver fulfilled the same function.This resulted in a number of years during which sterling silver costume jewelry was produced and some can still be found in today's vintage jewelry marketplace. Modern costume jewelry incorporates a wide range of materials. High end crystals, cubic zirconia simulated diamonds, and some semi-precious stones are used in place of precious stones. Metals include gold- or silver-plated brass, and sometimes vermeil or sterling silver. Lower-priced jewelry may still use gold plating over pewter, nickel or other metals; items made in countries outside the United States may contain lead. Some pieces incorporate plastic, acrylic, leather, or wood."
+        },
+        {
+            "id": 8,
+            "blogCategory": "Fashion",
+            "blogTitle": "Dhoties",
+            "slug": "dhoties",
+            "postedOn": "Dec 21, 2019",
+            "author": "Jagan Mohan",
+            "blogImage": "dhoti.jpg",
+            "blogText": "The dhoti, also known as panche, vesti, dhuti, mardani, chaadra, dhotar or panchey, is a type of sarong that outwardly resembles trousers. It is a lower garment forming part of the national or ethnic costume for men in the Indian subcontinent. The dhoti is fashioned out of a rectangular piece of unstitched cloth, usually around 4.5 metres (15 ft) long, wrapped around the waist and the legs and knotted either in the front or the back. Dhotis come in plain or solid colours, silk dhotis with embroidered borders are considered to be formal wear."
+        },
+        {
+            "id": 9,
+            "blogCategory": "Simple",
+            "blogTitle": "Sarees (Silk and Pattu)",
+            "slug": "sarees",
+            "postedOn": "jan 26, 2020",
+            "author": "Jagan Mohan",
+            "blogImage": "silk-and-pattu.jpg",
+            "blogText": "A sari, saree or sharee is a women's garment from the Indian subcontinent that consists of an unstitched drape varying from 4.5 to 9 metres (15 to 30 feet) in length and 600 to 1,200 millimetres (24 to 47 inches) in breadth that is typically wrapped around the waist, with one end draped over the shoulder, covering a larger portion of the midriff. There are various styles of sari manufacture and draping, the most common being the Nivi style, which originated in the Deccan region. The sari is worn with a fitted bodice commonly called a choli (ravike in southern India, and cholo in Nepal) and a petticoat called ghagra, parkar or ul-pavadai. In the modern Indian subcontinent, the sari is considered a cultural icon."
+        }
+    ]
+}

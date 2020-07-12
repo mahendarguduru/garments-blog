@@ -1,0 +1,25 @@
+.logo{
+    text-align: center;
+}
+
+.logo a{
+    font-size: 50px;
+    text-decoration: none;
+    color: red;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tag{
+    text-transform: capitalize;
+    font-size: 20px;
+    color: blue;
+}
+.stock{
+    text-transform: uppercase;
+    border-top: 1px solid red;
+    border-bottom:1px solid red;
+    margin: 20px;
+    color: blue;
+}
